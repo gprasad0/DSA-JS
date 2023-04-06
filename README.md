@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+Abt app: This is an app that shows multiple Data structures and Algorithms with explanation and different solutions.
 ## Getting Started
 
 First, run the development server:
